@@ -1,6 +1,6 @@
 [package]
 name = "sumer9999dev/funmock"
-version = "1.0"
+version = "1.0.0"
 authors = ["SUMER <Discord: sumer_real>"]
 description = "https://github.com/SUMER9999dev/FunMock"
 registry = "https://github.com/UpliftGames/wally-index"
