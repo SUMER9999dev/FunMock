@@ -2,7 +2,7 @@
 Library with one function to help creating tests with TestEZ
 
 # 📥 Installation
-using Wally: ``FunMock = "sumer9999dev/funmock@1.0"``
+using Wally: ``FunMock = "sumer9999dev/funmock@1.0.0"``
 
 RBXM: download from github releases!
 
